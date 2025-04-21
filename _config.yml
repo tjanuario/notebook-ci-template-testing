@@ -5,9 +5,9 @@
 
 #######################################################################################
 # Book settings
-title                       : STScI  # The title of the book. Will be placed in the left navbar.
-author                      : STScI  # The author of the book
-copyright                   : "2024"  # Copyright year to be placed in the footer
+title                       : My Test  # The title of the book. Will be placed in the left navbar.
+author                      : Tim Januario  # The author of the book
+copyright                   : "2025"  # Copyright year to be placed in the footer
 logo                        : stsci_logo2.png  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
